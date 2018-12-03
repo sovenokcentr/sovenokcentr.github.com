@@ -1,28 +1,46 @@
+body {
+    background-image:
+  
+  url(../img/back2.jpg);
+}
+
 header {
     margin-bottom: 9%;
+}
+
+.navbar-collapse{
+    width:100%;
 }
 
 
 .link-logoTop {
     
     padding: 0 0 0 15px;
-    margin-top: 20px;
-    height: 40px;
+    margin-top: 1px;
+    border-radius: 50%;
     margin-bottom: 20px;
     
 }
 
+.link-logoTop-img{
+    border-radius: 100%; 
+}
+
 .navbar-header {
-    background-color: white;
+    background-color: #e0eef6;
 }
 
 .li-header {
     margin-top: 3%;
     font-weight: 600;
-    
-    
-    letter-spacing: -1.2px;
-    background-color: #fff;
+    color: #73879c;
+    width: 19%;
+    letter-spacing: -0.5px;
+    background-color: #e0eef6;
+}
+
+.ul-header{
+    width:100%;
 }
 
 .link-header {
@@ -141,9 +159,10 @@ header {
 }
 
 .big-midle-header {
+    font-size: 35px;
     font-weight: 700;
     line-height: 34px;
-    margin-top: 4%;
+    margin-top: -4%;
     margin-bottom: 3%;
     letter-spacing: 1px;
     color: #506a85;
@@ -290,14 +309,15 @@ header {
 
 footer {
     margin-top: 5%;
-    padding-top: 5%;
-    background-color: #2f4052;
+    padding-top: 1%;
+    background-color: #668290;
+    
 }
 
 .foot-header {
     font-weight: 700;
     line-height: 22px;
-    margin-bottom: 9%;
+    margin-bottom: -9%;
     letter-spacing: 1.4px;
     color: #fff;
 }
@@ -437,11 +457,11 @@ footer {
 }
 
 .bottom-footer {
-    margin-top: 70px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    color: #707e8c;
-    background-color: #283645;
+    margin-top: 15px;
+    padding-top: 8px;
+    /* padding-bottom: 30px; */
+    color: #0d0d0d;
+    background-color:
 }
 
 
