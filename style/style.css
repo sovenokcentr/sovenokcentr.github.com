@@ -213,6 +213,10 @@ header {
     color: #73879c;
 }
 
+.big-p {
+    text-indent: 42px;
+}
+
 
 .text-for-hover-big{
     font-size: 66px;
